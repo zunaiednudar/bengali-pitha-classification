@@ -1,0 +1,13 @@
+metric,value
+Accuracy,0.872791519434629
+Top-3 accuracy,0.9717314487632509
+Top-5 accuracy,0.9823321554770318
+Precision (macro),0.8676747442372443
+Recall (macro),0.8685019841269841
+F1-score (macro),0.8654668274098883
+Precision (weighted),0.87403739762397
+Recall (weighted),0.872791519434629
+F1-score (weighted),0.8708771428646791
+Cohen's kappa,0.8671361502347418
+Matthews correlation coefficient,0.8673623938013545
+"ROC-AUC (macro, one-vs-rest)",0.9949000902238141

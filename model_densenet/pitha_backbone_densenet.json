@@ -1,0 +1,7 @@
+{
+  "backbone": "DenseNet121",
+  "raw_dims": 1024,
+  "pca_components": 256,
+  "variance_retained_pct": 93.9303603139706,
+  "preprocess": "densenet.preprocess_input (tf: scale to [0, 1], ImageNet mean/std normalization)"
+}

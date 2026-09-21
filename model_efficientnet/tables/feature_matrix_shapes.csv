@@ -1,0 +1,4 @@
+subset,images,feature_dimension
+Training (incl. augmented),7482,1280
+Validation,268,1280
+Test,283,1280

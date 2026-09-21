@@ -1,0 +1,10 @@
+parameter,value,note
+Backbone,"EfficientNet-B0 (ImageNet weights, frozen)","Fixed feature extractor, classification head removed"
+Feature dimension,1280,Global average pooling output
+Input size,224 x 224 px,Images are resized with padding
+Dimensionality reduction,"PCA, 256 components",Fitted on training features only
+Data split (train/val/test),0.70 / 0.15 / 0.15,Stratified by class
+Augmentation,5 copies per training image,"Training subset only, applied after the split"
+Cross-validation,"10-fold, grouped and stratified",Augmented copies stay in the fold of their original
+Batch size,16,Feature extraction
+Random seed,42,"Split, PCA, classifiers, cross-validation"

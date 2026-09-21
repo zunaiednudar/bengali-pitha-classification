@@ -1,0 +1,13 @@
+component,version
+Python,3.11.9
+Platform,Windows-10-10.0.26200-SP0
+TensorFlow,2.21.0
+NumPy,2.4.6
+pandas,3.0.6
+scikit-learn,1.9.1
+XGBoost,3.2.0
+Matplotlib,3.11.2
+seaborn,0.13.2
+Pillow,12.3.0
+joblib,1.6.0
+Compute device,CPU

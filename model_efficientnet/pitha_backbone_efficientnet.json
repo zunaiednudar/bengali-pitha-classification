@@ -1,0 +1,7 @@
+{
+  "backbone": "EfficientNet-B0",
+  "raw_dims": 1280,
+  "pca_components": 256,
+  "variance_retained_pct": 87.661202554591,
+  "preprocess": "efficientnet.preprocess_input (tf: identity, normalization is built into the network; input range [0, 255])"
+}
