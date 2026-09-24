@@ -1,8 +1,0 @@
-{
-  "classifier_name": "Logistic Regression",
-  "val_accuracy": 87.31343283582089,
-  "test_accuracy": 87.98586572438163,
-  "test_f1_weighted": 0.8806361694680702,
-  "test_f1_macro": 0.8786563340253272,
-  "test_kappa": 0.8745240206561995
-}

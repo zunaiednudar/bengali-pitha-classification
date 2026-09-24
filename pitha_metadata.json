@@ -1,4 +1,294 @@
 {
+  "bhapa_pitha": {
+    "display_name": "Bhapa Pitha",
+    "alt_names": [],
+    "district": "Cumilla",
+    "division": "Chittagong",
+    "cooking_method": "steamed",
+    "key_ingredients": [
+      "rice flour",
+      "coconut (grated)",
+      "date palm jaggery"
+    ],
+    "recipe_summary": "Damp rice flour is layered in a mold with grated coconut and jaggery filling in the center, then steamed over boiling water for 3-5 minutes. Served hot.",
+    "calories": 180,
+    "protein_g": 3,
+    "carbs_g": 34,
+    "fat_g": 3,
+    "sugar_g": 12
+  },
+  "bibikhana_pitha": {
+    "display_name": "Bibikhana Pitha",
+    "alt_names": [],
+    "district": "Jamalpur",
+    "division": "Mymensingh",
+    "cooking_method": "baked",
+    "key_ingredients": [
+      "rice flour",
+      "coconut (grated)",
+      "date palm jaggery",
+      "milk",
+      "eggs",
+      "ghee",
+      "cardamom"
+    ],
+    "recipe_summary": "Rice flour, coconut, jaggery, eggs, and milk are mixed into a thick batter, poured into a greased baking dish, and baked at 180C for 35-45 minutes until golden. Cut into squares.",
+    "calories": 260,
+    "protein_g": 5,
+    "carbs_g": 40,
+    "fat_g": 9,
+    "sugar_g": 16
+  },
+  "binni_chaler_pitha": {
+    "display_name": "Binni Chaler Pitha",
+    "alt_names": [],
+    "district": "Barguna",
+    "division": "Barishal",
+    "cooking_method": "pan_cooked",
+    "key_ingredients": [
+      "binni chal (sticky rice)",
+      "coconut (grated)",
+      "date palm jaggery"
+    ],
+    "recipe_summary": "Coarsely ground sticky rice is dampened, spread thinly on a dry pan, steamed briefly, then filled with grated coconut and jaggery, folded into a half-moon shape.",
+    "calories": 200,
+    "protein_g": 3,
+    "carbs_g": 40,
+    "fat_g": 4,
+    "sugar_g": 12
+  },
+  "chanamukhi": {
+    "display_name": "Chanamukhi",
+    "alt_names": [
+      "Chhanamukhi",
+      "Chanamukhi Pitha"
+    ],
+    "district": "Brahmanbaria",
+    "division": "Chittagong",
+    "cooking_method": "simmered_in_sugar_syrup",
+    "key_ingredients": [
+      "cow's milk chhana (curd cheese)",
+      "sugar",
+      "cardamom",
+      "flour"
+    ],
+    "recipe_summary": "Cow's milk is boiled and curdled, and the chhana is hung in cloth until it firms up, then cut into small four-cornered pieces. The pieces are simmered in cardamom-scented sugar syrup for 15-20 minutes and dried in open air, which leaves a hardened sugar crust; about 7-8 litres of milk and 1 kg of sugar yield 1 kg of chanamukhi. A Brahmanbaria speciality since British times, it received Bangladesh's geographical indication (GI) recognition as GI No. 41 on 24 September 2024.",
+    "calories": 210,
+    "protein_g": 8,
+    "carbs_g": 29,
+    "fat_g": 7,
+    "sugar_g": 25
+  },
+  "chitoi": {
+    "display_name": "Chitoi",
+    "alt_names": [
+      "Chitoi Pitha"
+    ],
+    "district": "Chuadanga",
+    "division": "Khulna",
+    "cooking_method": "pan_cooked",
+    "key_ingredients": [
+      "rice flour",
+      "water",
+      "salt"
+    ],
+    "recipe_summary": "A simple pitha: smooth rice flour batter is poured into a hot clay mold or pan, covered, and cooked until the surface becomes firm and slightly porous. Served with bhorta, curry, or jaggery.",
+    "calories": 140,
+    "protein_g": 2,
+    "carbs_g": 30,
+    "fat_g": 1,
+    "sugar_g": 0
+  },
+  "chushi_pitha": {
+    "display_name": "Chushi Pitha",
+    "alt_names": [],
+    "district": "Mymensingh",
+    "division": "Mymensingh",
+    "cooking_method": "boiled_in_milk",
+    "key_ingredients": [
+      "rice flour",
+      "milk",
+      "date palm jaggery",
+      "cardamom",
+      "coconut"
+    ],
+    "recipe_summary": "Tiny elongated pieces of rice flour dough are boiled in water, drained, then simmered in sweetened reduced milk with jaggery, cardamom, and optional coconut.",
+    "calories": 235,
+    "protein_g": 5,
+    "carbs_g": 40,
+    "fat_g": 6,
+    "sugar_g": 17
+  },
+  "dim_sundori_pitha_pantowa": {
+    "display_name": "Dim Sundori Pitha (Pantowa)",
+    "alt_names": [
+      "Pantowa"
+    ],
+    "district": "Barishal",
+    "division": "Barishal",
+    "cooking_method": "deep_fried",
+    "key_ingredients": [
+      "all-purpose flour",
+      "egg",
+      "milk",
+      "sugar",
+      "hard-boiled eggs",
+      "cardamom"
+    ],
+    "recipe_summary": "Hard-boiled eggs are repeatedly dipped in a sweet flour-milk batter and deep-fried in cycles (4-6 times), building concentric golden layers. Sliced cross-sectionally to reveal rings.",
+    "calories": 280,
+    "protein_g": 8,
+    "carbs_g": 35,
+    "fat_g": 12,
+    "sugar_g": 16
+  },
+  "dudh_chitoi": {
+    "display_name": "Dudh Chitoi",
+    "alt_names": [],
+    "district": "Sylhet",
+    "division": "Sylhet",
+    "cooking_method": "pan_cooked_then_soaked",
+    "key_ingredients": [
+      "rice flour",
+      "full-fat milk",
+      "date palm jaggery",
+      "cardamom",
+      "coconut"
+    ],
+    "recipe_summary": "Porous rice flour pithas are cooked on a clay mold, then soaked overnight in reduced milk sweetened with date palm jaggery and cardamom. Served cold.",
+    "calories": 250,
+    "protein_g": 5,
+    "carbs_g": 42,
+    "fat_g": 7,
+    "sugar_g": 20
+  },
+  "gulgula": {
+    "display_name": "Gulgula",
+    "alt_names": [],
+    "district": "Lakshmipur",
+    "division": "Chittagong",
+    "cooking_method": "deep_fried",
+    "key_ingredients": [
+      "rice flour",
+      "all-purpose flour",
+      "date palm jaggery",
+      "coconut (grated)",
+      "fennel seeds"
+    ],
+    "recipe_summary": "Jaggery water is mixed with rice flour, all-purpose flour, coconut, and fennel into a thick batter, rested, then spoonfuls are dropped into hot oil and fried until deep golden brown.",
+    "calories": 210,
+    "protein_g": 3,
+    "carbs_g": 33,
+    "fat_g": 8,
+    "sugar_g": 13
+  },
+  "jhal_jamai_pitha_chapri": {
+    "display_name": "Jhal Jamai Pitha (Chapri)",
+    "alt_names": [
+      "Chapri"
+    ],
+    "district": "Magura",
+    "division": "Khulna",
+    "cooking_method": "deep_fried",
+    "key_ingredients": [
+      "rice flour",
+      "onion",
+      "green chili",
+      "coriander",
+      "turmeric",
+      "nigella seeds"
+    ],
+    "recipe_summary": "A savory pitha: spiced rice flour dough with onion, chili, coriander, and turmeric is flattened into thin ovals (chapri) and fried until both sides are golden brown and crisp.",
+    "calories": 185,
+    "protein_g": 3,
+    "carbs_g": 28,
+    "fat_g": 7,
+    "sugar_g": 1
+  },
+  "jhinuk_pitha": {
+    "display_name": "Jhinuk Pitha",
+    "alt_names": [],
+    "district": "Khulna",
+    "division": "Khulna",
+    "cooking_method": "deep_fried",
+    "key_ingredients": [
+      "rice flour",
+      "all-purpose flour",
+      "milk",
+      "coconut (grated)",
+      "sugar",
+      "cardamom"
+    ],
+    "recipe_summary": "Flour-coconut dough is shaped into small ovals pressed with two clean combs to create a shell-like (jhinuk/mussel) pattern, deep-fried until golden, then rolled in warm sugar-cardamom syrup.",
+    "calories": 235,
+    "protein_g": 4,
+    "carbs_g": 36,
+    "fat_g": 9,
+    "sugar_g": 16
+  },
+  "khejuri_pitha": {
+    "display_name": "Khejuri Pitha",
+    "alt_names": [],
+    "district": "Barishal",
+    "division": "Barishal",
+    "cooking_method": "deep_fried",
+    "key_ingredients": [
+      "rice flour",
+      "date palm jaggery",
+      "coconut (grated)",
+      "water"
+    ],
+    "recipe_summary": "Rice flour dough is shaped into small ovals or leaf-like forms, deep-fried until golden and crisp, then briefly dipped in warm date palm jaggery syrup.",
+    "calories": 215,
+    "protein_g": 3,
+    "carbs_g": 34,
+    "fat_g": 8,
+    "sugar_g": 14
+  },
+  "khola_jali_pitha": {
+    "display_name": "Khola Jali Pitha",
+    "alt_names": [],
+    "district": "Patuakhali",
+    "division": "Barishal",
+    "cooking_method": "pan_cooked",
+    "key_ingredients": [
+      "rice flour",
+      "onion",
+      "green chili",
+      "coriander leaves",
+      "nigella seeds"
+    ],
+    "recipe_summary": "A savory pitha: thin rice flour batter with onion, chili, and coriander is poured onto a hot tawa and cooked covered on both sides until lightly crisp. Served with chutney or bhorta.",
+    "calories": 160,
+    "protein_g": 3,
+    "carbs_g": 30,
+    "fat_g": 3,
+    "sugar_g": 1
+  },
+  "malpoya": {
+    "display_name": "Malpoya",
+    "alt_names": [
+      "Malpua"
+    ],
+    "district": "Jhenaidah",
+    "division": "Khulna",
+    "cooking_method": "pan_fried",
+    "key_ingredients": [
+      "all-purpose flour",
+      "rice flour",
+      "semolina",
+      "milk",
+      "sugar",
+      "fennel seeds",
+      "cardamom"
+    ],
+    "recipe_summary": "Thick batter of flour, semolina, milk, sugar, and fennel is rested, then spoonfuls are shallow-fried in ghee/oil until golden on both sides. Served warm, optionally with jaggery syrup.",
+    "calories": 230,
+    "protein_g": 4,
+    "carbs_g": 35,
+    "fat_g": 8,
+    "sugar_g": 14
+  },
   "mera_pitha": {
     "display_name": "Mera Pitha",
     "alt_names": [],
@@ -17,6 +307,24 @@
     "carbs_g": 35,
     "fat_g": 3,
     "sugar_g": 10
+  },
+  "muittha_pitha": {
+    "display_name": "Muittha Pitha",
+    "alt_names": [],
+    "district": "Barguna",
+    "division": "Barishal",
+    "cooking_method": "steamed",
+    "key_ingredients": [
+      "rice flour",
+      "coconut (grated)",
+      "date palm jaggery"
+    ],
+    "recipe_summary": "Rice flour is cooked with coconut and jaggery into a dough, shaped by squeezing in the palm to create finger-impression patterns, then steamed for 12-15 minutes.",
+    "calories": 185,
+    "protein_g": 3,
+    "carbs_g": 36,
+    "fat_g": 3,
+    "sugar_g": 13
   },
   "narkel_puli_pitha": {
     "display_name": "Narkel Puli Pitha",
@@ -38,26 +346,6 @@
     "carbs_g": 32,
     "fat_g": 9,
     "sugar_g": 14
-  },
-  "dudh_chitoi": {
-    "display_name": "Dudh Chitoi",
-    "alt_names": [],
-    "district": "Sylhet",
-    "division": "Sylhet",
-    "cooking_method": "pan_cooked_then_soaked",
-    "key_ingredients": [
-      "rice flour",
-      "full-fat milk",
-      "date palm jaggery",
-      "cardamom",
-      "coconut"
-    ],
-    "recipe_summary": "Porous rice flour pithas are cooked on a clay mold, then soaked overnight in reduced milk sweetened with date palm jaggery and cardamom. Served cold.",
-    "calories": 250,
-    "protein_g": 5,
-    "carbs_g": 42,
-    "fat_g": 7,
-    "sugar_g": 20
   },
   "nunia_pitha": {
     "display_name": "Nunia Pitha",
@@ -102,142 +390,6 @@
     "fat_g": 5,
     "sugar_g": 15
   },
-  "binni_chaler_pitha": {
-    "display_name": "Binni Chaler Pitha",
-    "alt_names": [],
-    "district": "Barguna",
-    "division": "Barishal",
-    "cooking_method": "pan_cooked",
-    "key_ingredients": [
-      "binni chal (sticky rice)",
-      "coconut (grated)",
-      "date palm jaggery"
-    ],
-    "recipe_summary": "Coarsely ground sticky rice is dampened, spread thinly on a dry pan, steamed briefly, then filled with grated coconut and jaggery, folded into a half-moon shape.",
-    "calories": 200,
-    "protein_g": 3,
-    "carbs_g": 40,
-    "fat_g": 4,
-    "sugar_g": 12
-  },
-  "muittha_pitha": {
-    "display_name": "Muittha Pitha",
-    "alt_names": [],
-    "district": "Barguna",
-    "division": "Barishal",
-    "cooking_method": "steamed",
-    "key_ingredients": [
-      "rice flour",
-      "coconut (grated)",
-      "date palm jaggery"
-    ],
-    "recipe_summary": "Rice flour is cooked with coconut and jaggery into a dough, shaped by squeezing in the palm to create finger-impression patterns, then steamed for 12-15 minutes.",
-    "calories": 185,
-    "protein_g": 3,
-    "carbs_g": 36,
-    "fat_g": 3,
-    "sugar_g": 13
-  },
-  "dim_sundori_pitha": {
-    "display_name": "Dim Sundori Pitha",
-    "alt_names": [
-      "Pantowa"
-    ],
-    "district": "Barishal",
-    "division": "Barishal",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "all-purpose flour",
-      "egg",
-      "milk",
-      "sugar",
-      "hard-boiled eggs",
-      "cardamom"
-    ],
-    "recipe_summary": "Hard-boiled eggs are repeatedly dipped in a sweet flour-milk batter and deep-fried in cycles (4-6 times), building concentric golden layers. Sliced cross-sectionally to reveal rings.",
-    "calories": 280,
-    "protein_g": 8,
-    "carbs_g": 35,
-    "fat_g": 12,
-    "sugar_g": 16
-  },
-  "khejuri_pitha": {
-    "display_name": "Khejuri Pitha",
-    "alt_names": [],
-    "district": "Barishal",
-    "division": "Barishal",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "rice flour",
-      "date palm jaggery",
-      "coconut (grated)",
-      "water"
-    ],
-    "recipe_summary": "Rice flour dough is shaped into small ovals or leaf-like forms, deep-fried until golden and crisp, then briefly dipped in warm date palm jaggery syrup.",
-    "calories": 215,
-    "protein_g": 3,
-    "carbs_g": 34,
-    "fat_g": 8,
-    "sugar_g": 14
-  },
-  "nakshi_pitha": {
-    "display_name": "Nakshi Pitha",
-    "alt_names": [],
-    "district": "Barishal",
-    "division": "Barishal",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "rice flour",
-      "date palm jaggery",
-      "water"
-    ],
-    "recipe_summary": "Rice flour dough is rolled thin and decorated with intricate floral, fish, or geometric patterns using a date-palm thorn, then deep-fried until crisp and dipped in jaggery syrup.",
-    "calories": 200,
-    "protein_g": 2,
-    "carbs_g": 35,
-    "fat_g": 6,
-    "sugar_g": 12
-  },
-  "taler_cone_pitha": {
-    "display_name": "Taler Cone Pitha",
-    "alt_names": [],
-    "district": "Bhola",
-    "division": "Barishal",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "ripe palm fruit pulp (tal)",
-      "rice flour",
-      "all-purpose flour",
-      "sugar",
-      "coconut"
-    ],
-    "recipe_summary": "Ripe palm fruit pulp is mixed with rice flour, coconut, and sugar into a dough, shaped into pointed cones, and deep-fried until deep golden brown.",
-    "calories": 230,
-    "protein_g": 3,
-    "carbs_g": 38,
-    "fat_g": 8,
-    "sugar_g": 14
-  },
-  "dudh_kodu": {
-    "display_name": "Dudh Kodu",
-    "alt_names": [],
-    "district": "Jhalokathi",
-    "division": "Barishal",
-    "cooking_method": "steamed_then_soaked",
-    "key_ingredients": [
-      "rice flour",
-      "milk",
-      "date palm jaggery",
-      "coconut (grated)",
-      "cardamom"
-    ],
-    "recipe_summary": "Small rounded dumplings made from rice flour dough are steamed until firm, then simmered in sweetened reduced milk flavored with jaggery, coconut, and cardamom.",
-    "calories": 240,
-    "protein_g": 5,
-    "carbs_g": 40,
-    "fat_g": 6,
-    "sugar_g": 18
-  },
   "rosgoja_pitha": {
     "display_name": "Rosgoja Pitha",
     "alt_names": [],
@@ -256,311 +408,6 @@
     "carbs_g": 36,
     "fat_g": 8,
     "sugar_g": 15
-  },
-  "khola_jali_pitha": {
-    "display_name": "Khola Jali Pitha",
-    "alt_names": [],
-    "district": "Patuakhali",
-    "division": "Barishal",
-    "cooking_method": "pan_cooked",
-    "key_ingredients": [
-      "rice flour",
-      "onion",
-      "green chili",
-      "coriander leaves",
-      "nigella seeds"
-    ],
-    "recipe_summary": "A savory pitha: thin rice flour batter with onion, chili, and coriander is poured onto a hot tawa and cooked covered on both sides until lightly crisp. Served with chutney or bhorta.",
-    "calories": 160,
-    "protein_g": 3,
-    "carbs_g": 30,
-    "fat_g": 3,
-    "sugar_g": 1
-  },
-  "bhapa_pitha": {
-    "display_name": "Bhapa Pitha",
-    "alt_names": [],
-    "district": "Cumilla",
-    "division": "Chittagong",
-    "cooking_method": "steamed",
-    "key_ingredients": [
-      "rice flour",
-      "coconut (grated)",
-      "date palm jaggery"
-    ],
-    "recipe_summary": "Damp rice flour is layered in a mold with grated coconut and jaggery filling in the center, then steamed over boiling water for 3-5 minutes. Served hot.",
-    "calories": 180,
-    "protein_g": 3,
-    "carbs_g": 34,
-    "fat_g": 3,
-    "sugar_g": 12
-  },
-  "chitoi": {
-    "display_name": "Chitoi",
-    "alt_names": [
-      "Chitoi Pitha"
-    ],
-    "district": "Chuadanga",
-    "division": "Khulna",
-    "cooking_method": "pan_cooked",
-    "key_ingredients": [
-      "rice flour",
-      "water",
-      "salt"
-    ],
-    "recipe_summary": "A simple pitha: smooth rice flour batter is poured into a hot clay mold or pan, covered, and cooked until the surface becomes firm and slightly porous. Served with bhorta, curry, or jaggery.",
-    "calories": 140,
-    "protein_g": 2,
-    "carbs_g": 30,
-    "fat_g": 1,
-    "sugar_g": 0
-  },
-  "golap_pitha": {
-    "display_name": "Golap Pitha",
-    "alt_names": [],
-    "district": "Kushtia",
-    "division": "Khulna",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "all-purpose flour",
-      "milk",
-      "ghee",
-      "sugar",
-      "cardamom",
-      "cinnamon"
-    ],
-    "recipe_summary": "Flour-milk dough is rolled thin, cut into discs with slit petals, folded into rose shapes, deep-fried until golden, then soaked in warm cardamom-cinnamon sugar syrup.",
-    "calories": 245,
-    "protein_g": 3,
-    "carbs_g": 38,
-    "fat_g": 9,
-    "sugar_g": 18
-  },
-  "jhal_jamai_pitha": {
-    "display_name": "Jhal Jamai Pitha",
-    "alt_names": [
-      "Chapri"
-    ],
-    "district": "Magura",
-    "division": "Khulna",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "rice flour",
-      "onion",
-      "green chili",
-      "coriander",
-      "turmeric",
-      "nigella seeds"
-    ],
-    "recipe_summary": "A savory pitha: spiced rice flour dough with onion, chili, coriander, and turmeric is flattened into thin ovals (chapri) and fried until both sides are golden brown and crisp.",
-    "calories": 185,
-    "protein_g": 3,
-    "carbs_g": 28,
-    "fat_g": 7,
-    "sugar_g": 1
-  },
-  "jhinuk_pitha": {
-    "display_name": "Jhinuk Pitha",
-    "alt_names": [],
-    "district": "Khulna",
-    "division": "Khulna",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "rice flour",
-      "all-purpose flour",
-      "milk",
-      "coconut (grated)",
-      "sugar",
-      "cardamom"
-    ],
-    "recipe_summary": "Flour-coconut dough is shaped into small ovals pressed with two clean combs to create a shell-like (jhinuk/mussel) pattern, deep-fried until golden, then rolled in warm sugar-cardamom syrup.",
-    "calories": 235,
-    "protein_g": 4,
-    "carbs_g": 36,
-    "fat_g": 9,
-    "sugar_g": 16
-  },
-  "lobongo_lotika": {
-    "display_name": "Lobongo Lotika",
-    "alt_names": [],
-    "district": "Magura",
-    "division": "Khulna",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "all-purpose flour",
-      "coconut (grated)",
-      "sugar",
-      "cardamom",
-      "cinnamon",
-      "ghee",
-      "cloves"
-    ],
-    "recipe_summary": "Thin flour sheets are filled with sweet coconut-cardamom-cinnamon filling, folded into sealed parcels secured with a clove through the top, then deep-fried until crisp and dipped in light sugar syrup.",
-    "calories": 240,
-    "protein_g": 3,
-    "carbs_g": 34,
-    "fat_g": 10,
-    "sugar_g": 16
-  },
-  "malpoya": {
-    "display_name": "Malpoya",
-    "alt_names": [
-      "Malpua"
-    ],
-    "district": "Jhenaidah",
-    "division": "Khulna",
-    "cooking_method": "pan_fried",
-    "key_ingredients": [
-      "all-purpose flour",
-      "rice flour",
-      "semolina",
-      "milk",
-      "sugar",
-      "fennel seeds",
-      "cardamom"
-    ],
-    "recipe_summary": "Thick batter of flour, semolina, milk, sugar, and fennel is rested, then spoonfuls are shallow-fried in ghee/oil until golden on both sides. Served warm, optionally with jaggery syrup.",
-    "calories": 230,
-    "protein_g": 4,
-    "carbs_g": 35,
-    "fat_g": 8,
-    "sugar_g": 14
-  },
-  "mug_pakon": {
-    "display_name": "Mug Pakon",
-    "alt_names": [],
-    "district": "Jashore",
-    "division": "Khulna",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "moong dal",
-      "rice flour",
-      "date palm jaggery",
-      "salt"
-    ],
-    "recipe_summary": "Boiled moong dal is mashed and mixed with rice flour into a firm dough, shaped into decorative ovals, deep-fried until crisp and golden, then soaked in warm jaggery syrup.",
-    "calories": 220,
-    "protein_g": 6,
-    "carbs_g": 34,
-    "fat_g": 7,
-    "sugar_g": 12
-  },
-  "bibikhana_pitha": {
-    "display_name": "Bibikhana Pitha",
-    "alt_names": [],
-    "district": "Jamalpur",
-    "division": "Mymensingh",
-    "cooking_method": "baked",
-    "key_ingredients": [
-      "rice flour",
-      "coconut (grated)",
-      "date palm jaggery",
-      "milk",
-      "eggs",
-      "ghee",
-      "cardamom"
-    ],
-    "recipe_summary": "Rice flour, coconut, jaggery, eggs, and milk are mixed into a thick batter, poured into a greased baking dish, and baked at 180C for 35-45 minutes until golden. Cut into squares.",
-    "calories": 260,
-    "protein_g": 5,
-    "carbs_g": 40,
-    "fat_g": 9,
-    "sugar_g": 16
-  },
-  "gulgula": {
-    "display_name": "Gulgula",
-    "alt_names": [],
-    "district": "Lakshmipur",
-    "division": "Chittagong",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "rice flour",
-      "all-purpose flour",
-      "date palm jaggery",
-      "coconut (grated)",
-      "fennel seeds"
-    ],
-    "recipe_summary": "Jaggery water is mixed with rice flour, all-purpose flour, coconut, and fennel into a thick batter, rested, then spoonfuls are dropped into hot oil and fried until deep golden brown.",
-    "calories": 210,
-    "protein_g": 3,
-    "carbs_g": 33,
-    "fat_g": 8,
-    "sugar_g": 13
-  },
-  "chapa_pitha": {
-    "display_name": "Chapa Pitha",
-    "alt_names": [],
-    "district": "Mymensingh",
-    "division": "Mymensingh",
-    "cooking_method": "steamed",
-    "key_ingredients": [
-      "rice flour",
-      "coconut (grated)",
-      "date palm jaggery",
-      "banana leaf"
-    ],
-    "recipe_summary": "Rice flour dough is flattened into thick discs, filled with grated coconut and jaggery, sealed, optionally wrapped in banana leaf, and steamed for 10-12 minutes.",
-    "calories": 190,
-    "protein_g": 3,
-    "carbs_g": 37,
-    "fat_g": 4,
-    "sugar_g": 13
-  },
-  "chushi_pitha": {
-    "display_name": "Chushi Pitha",
-    "alt_names": [],
-    "district": "Mymensingh",
-    "division": "Mymensingh",
-    "cooking_method": "boiled_in_milk",
-    "key_ingredients": [
-      "rice flour",
-      "milk",
-      "date palm jaggery",
-      "cardamom",
-      "coconut"
-    ],
-    "recipe_summary": "Tiny elongated pieces of rice flour dough are boiled in water, drained, then simmered in sweetened reduced milk with jaggery, cardamom, and optional coconut.",
-    "calories": 235,
-    "protein_g": 5,
-    "carbs_g": 40,
-    "fat_g": 6,
-    "sugar_g": 17
-  },
-  "syringe_pitha": {
-    "display_name": "Syringe Pitha",
-    "alt_names": [],
-    "district": "Mymensingh",
-    "division": "Mymensingh",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "rice flour",
-      "coconut (grated)",
-      "date palm jaggery"
-    ],
-    "recipe_summary": "Cooked rice flour dough is piped through a syringe or piping bag into coils, spirals, or lattice shapes directly into hot oil, fried until crisp, then dipped in jaggery syrup.",
-    "calories": 215,
-    "protein_g": 3,
-    "carbs_g": 34,
-    "fat_g": 8,
-    "sugar_g": 13
-  },
-  "hari_pitha": {
-    "display_name": "Hari Pitha",
-    "alt_names": [],
-    "district": "Rangpur",
-    "division": "Rangpur",
-    "cooking_method": "steamed",
-    "key_ingredients": [
-      "rice flour",
-      "coconut (grated)",
-      "date palm jaggery"
-    ],
-    "recipe_summary": "Rice flour dough is shaped into small rounds or ovals, optionally filled with coconut and jaggery, sealed, and steamed over boiling water for 10-15 minutes until firm.",
-    "calories": 180,
-    "protein_g": 3,
-    "carbs_g": 35,
-    "fat_g": 3,
-    "sugar_g": 11
   },
   "sorbhaja": {
     "display_name": "Sorbhaja",
@@ -601,88 +448,42 @@
     "fat_g": 8,
     "sugar_g": 13
   },
-  "bokul_pitha": {
-    "display_name": "Bokul Pitha",
+  "syringe_pitha": {
+    "display_name": "Syringe Pitha",
     "alt_names": [],
-    "district": "Cumilla",
-    "division": "Chittagong",
+    "district": "Mymensingh",
+    "division": "Mymensingh",
     "cooking_method": "deep_fried",
     "key_ingredients": [
       "rice flour",
       "coconut (grated)",
-      "date palm jaggery",
-      "cardamom"
+      "date palm jaggery"
     ],
-    "recipe_summary": "Rice flour dough is filled with sticky coconut-jaggery-cardamom filling, shaped into small rounded flower or bud forms resembling a bokul blossom, then deep-fried until golden.",
+    "recipe_summary": "Cooked rice flour dough is piped through a syringe or piping bag into coils, spirals, or lattice shapes directly into hot oil, fried until crisp, then dipped in jaggery syrup.",
     "calories": 215,
     "protein_g": 3,
     "carbs_g": 34,
     "fat_g": 8,
-    "sugar_g": 14
+    "sugar_g": 13
   },
-  "chanamukhi_pitha": {
-    "display_name": "Chanamukhi Pitha",
+  "taler_cone_pitha": {
+    "display_name": "Taler Cone Pitha",
     "alt_names": [],
-    "district": "Brahmanbaria",
-    "division": "Chittagong",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
-      "rice flour",
-      "coconut (grated)",
-      "date palm jaggery",
-      "cardamom"
-    ],
-    "recipe_summary": "Rice flour dough is filled with sticky coconut-jaggery-cardamom filling, shaped into neat rounded pieces with slightly faceted sides, then deep-fried until golden brown and crisp.",
-    "calories": 215,
-    "protein_g": 3,
-    "carbs_g": 34,
-    "fat_g": 8,
-    "sugar_g": 14
-  },
-  "dim_sundori_pitha_pantowa": {
-    "display_name": "Dim Sundori Pitha (Pantowa)",
-    "alt_names": [
-      "Pantowa"
-    ],
-    "district": "Barishal",
+    "district": "Bhola",
     "division": "Barishal",
     "cooking_method": "deep_fried",
     "key_ingredients": [
-      "all-purpose flour",
-      "egg",
-      "milk",
-      "sugar",
-      "hard-boiled eggs",
-      "cardamom"
-    ],
-    "recipe_summary": "Hard-boiled eggs are repeatedly dipped in a sweet flour-milk batter and deep-fried in cycles (4-6 times), building concentric golden layers. Sliced cross-sectionally to reveal rings.",
-    "calories": 280,
-    "protein_g": 8,
-    "carbs_g": 35,
-    "fat_g": 12,
-    "sugar_g": 16
-  },
-  "jhal_jamai_pitha_chapri": {
-    "display_name": "Jhal Jamai Pitha (Chapri)",
-    "alt_names": [
-      "Chapri"
-    ],
-    "district": "Magura",
-    "division": "Khulna",
-    "cooking_method": "deep_fried",
-    "key_ingredients": [
+      "ripe palm fruit pulp (tal)",
       "rice flour",
-      "onion",
-      "green chili",
-      "coriander",
-      "turmeric",
-      "nigella seeds"
+      "all-purpose flour",
+      "sugar",
+      "coconut"
     ],
-    "recipe_summary": "A savory pitha: spiced rice flour dough with onion, chili, coriander, and turmeric is flattened into thin ovals (chapri) and fried until both sides are golden brown and crisp.",
-    "calories": 185,
+    "recipe_summary": "Ripe palm fruit pulp is mixed with rice flour, coconut, and sugar into a dough, shaped into pointed cones, and deep-fried until deep golden brown.",
+    "calories": 230,
     "protein_g": 3,
-    "carbs_g": 28,
-    "fat_g": 7,
-    "sugar_g": 1
+    "carbs_g": 38,
+    "fat_g": 8,
+    "sugar_g": 14
   }
 }

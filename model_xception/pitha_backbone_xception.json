@@ -1,7 +1,0 @@
-{
-  "backbone": "Xception",
-  "raw_dims": 2048,
-  "pca_components": 256,
-  "variance_retained_pct": 84.12131361837965,
-  "preprocess": "xception.preprocess_input (tf: scale to [-1, 1])"
-}

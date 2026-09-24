@@ -1,7 +1,0 @@
-subset,images,share_of_original_images_pct
-Training - original,1247,69.35483870967742
-Training - augmented,6235,
-Training - total,7482,
-Validation,268,14.905450500556173
-Test,283,15.739710789766406
-All original images,1798,100.0

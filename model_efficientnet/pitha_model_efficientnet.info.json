@@ -1,8 +1,0 @@
-{
-  "classifier_name": "SVM (RBF kernel)",
-  "val_accuracy": 90.67164179104478,
-  "test_accuracy": 87.98586572438163,
-  "test_f1_weighted": 0.877951384527207,
-  "test_f1_macro": 0.8777013528836147,
-  "test_kappa": 0.8744765507794665
-}

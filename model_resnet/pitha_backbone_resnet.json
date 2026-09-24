@@ -1,7 +1,0 @@
-{
-  "backbone": "ResNet50",
-  "raw_dims": 2048,
-  "pca_components": 256,
-  "variance_retained_pct": 87.82565915607847,
-  "preprocess": "resnet50.preprocess_input (tf: RGB to BGR, ImageNet mean subtraction)"
-}

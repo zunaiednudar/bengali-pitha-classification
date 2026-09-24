@@ -1,7 +1,0 @@
-{
-  "backbone": "ConvNeXt-Tiny",
-  "raw_dims": 768,
-  "pca_components": 256,
-  "variance_retained_pct": 96.42173346219352,
-  "preprocess": "convnext.preprocess_input (tf: identity, normalization is built into the network; input range [0, 255])"
-}

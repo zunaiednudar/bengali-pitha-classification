@@ -1,7 +1,0 @@
-{
-  "backbone": "MobileNetV2",
-  "raw_dims": 1280,
-  "pca_components": 256,
-  "variance_retained_pct": 84.5683419960551,
-  "preprocess": "mobilenet_v2.preprocess_input (tf: scale to [-1, 1])"
-}
