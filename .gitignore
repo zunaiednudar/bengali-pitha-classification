@@ -1,7 +1,7 @@
 model_*/
 *.pdf
 *.docx
-*.md 
+explanation.md
 *.pptx
 *.zip
 */
